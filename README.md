@@ -3,7 +3,6 @@ Mac OSX 10.11.1 bindg example on Xcode 7.1
 
 // No code required. Illustrates how the Cocoa Binding works.
 
-
 //
 // Observed user behavior
 //    User changes a slider and the value changes. As the 'NSSlider' and 'NSTextField' are set to contious
