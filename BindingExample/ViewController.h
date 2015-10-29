@@ -32,10 +32,10 @@
 //        set 'Controller Key' to 'values' and 'Model Key path' to 'controlsEnabled'
 //
 //   Binding 3: Bind availability (i.e.) Enabled and bind to the checkbox.
-//   Horizontal Slider: NSSlider --> Bindng --> Availability --> Bind To --> "Shared user defaults controls .."
-//   Text Field --> NSTextField --> Bindng --> Availability --> Bind To --> "Shared user defaults controls .."
-//      in both
-//          Set "Controller Key" to "value" and 'Model key path' to 'controlsEnabled'
+//        Horizontal Slider: NSSlider --> Bindng --> Availability --> Bind To --> "Shared user defaults controls .."
+//        Text Field --> NSTextField --> Bindng --> Availability --> Bind To --> "Shared user defaults controls .."
+//        in both
+//        Set "Controller Key" to "value" and 'Model key path' to 'controlsEnabled'
 //          
 //
 // No code required.
